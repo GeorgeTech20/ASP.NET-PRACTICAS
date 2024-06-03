@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-1\\practica-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{151EBACA-91A7-41E9-AF61-A19190BDF9C4}|practica-1\\practica-1.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-1\\practica-1\\practica-1\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151EBACA-91A7-41E9-AF61-A19190BDF9C4}|practica-1\\practica-1.csproj|solutionrelative:practica-1\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151EBACA-91A7-41E9-AF61-A19190BDF9C4}|practica-1\\practica-1.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-1\\practica-1\\practica-1\\views\\ventas\\actionventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151EBACA-91A7-41E9-AF61-A19190BDF9C4}|practica-1\\practica-1.csproj|solutionrelative:practica-1\\views\\ventas\\actionventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151EBACA-91A7-41E9-AF61-A19190BDF9C4}|practica-1\\practica-1.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-1\\practica-1\\practica-1\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151EBACA-91A7-41E9-AF61-A19190BDF9C4}|practica-1\\practica-1.csproj|solutionrelative:practica-1\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151EBACA-91A7-41E9-AF61-A19190BDF9C4}|practica-1\\practica-1.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-1\\practica-1\\practica-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151EBACA-91A7-41E9-AF61-A19190BDF9C4}|practica-1\\practica-1.csproj|solutionrelative:practica-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActionVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-1\\practica-1\\practica-1\\Views\\Ventas\\ActionVenta.cshtml",
+              "RelativeDocumentMoniker": "practica-1\\Views\\Ventas\\ActionVenta.cshtml",
+              "ToolTip": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-1\\practica-1\\practica-1\\Views\\Ventas\\ActionVenta.cshtml",
+              "RelativeToolTip": "practica-1\\Views\\Ventas\\ActionVenta.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T07:13:33.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-1\\practica-1\\practica-1\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "practica-1\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-1\\practica-1\\practica-1\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "practica-1\\Controllers\\VentasController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:02:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-1\\practica-1\\practica-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "practica-1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-1\\practica-1\\practica-1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "practica-1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:01:23.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-1\\practica-1\\practica-1\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "practica-1\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-1\\practica-1\\practica-1\\Models\\Venta.cs",
+              "RelativeToolTip": "practica-1\\Models\\Venta.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:20:27.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
