@@ -1,0 +1,82 @@
+﻿@model practica_2.Models.Registro
+
+@{
+    ViewBag.Title = "ActiontRgistrar";
+}
+
+<h2>ActiontRgistrar</h2>
+@using (Html.BeginForm())
+{ 
+
+        <div class="form-horizontal">
+            <div class="form-goup">
+                @Html.Label("numero", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBoxFor(model => model.numero, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+            <div class="form-horizontal">
+                @Html.Label("fecha", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBoxFor(model => model.fecha, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+
+            <div class="form-horizontal">
+                @Html.Label("nombre", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBoxFor(model => model.nombre, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+
+            <div class="form-horizontal">
+                @Html.Label("descripcion", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBoxFor(model => model.descripcion, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+
+            <div class="form-horizontal">
+                @Html.Label("precio", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBoxFor(model => model.precio, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+
+            <div class="form-horizontal">
+                @Html.Label("tm", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBoxFor(model => model.tm, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+
+
+
+            <div class="form-horizontal">
+                @Html.Label("tm", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBox("Costo", @ViewBag.Costo as string, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+
+            <div class="form-horizontal">
+                @Html.Label("Seguro", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBox("Seguro", @ViewBag.Seguro as string, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+            <div class="form-horizontal">
+                @Html.Label("Monto", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBox("Monto", @ViewBag.Monto as string, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+            <div class="form-horizontal">
+                @Html.Label("IGV", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBox("IGV", @ViewBag.IGV as string, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+            <div class="form-horizontal">
+                @Html.Label("MontoTotal", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBox("MontoTotal", @ViewBag.MontoTotal as string, htmlAttributes: new { @class = "form-control col-md-10" })
+            </div>
+
+            <div>
+                @Html.ActionLink("Nuevo","ActionRegistro", null, new {@class = "btn btn-default"}) 
+                <input type="submit" value="Procesar">
+            </div>
+
+        </div>
+
+}
