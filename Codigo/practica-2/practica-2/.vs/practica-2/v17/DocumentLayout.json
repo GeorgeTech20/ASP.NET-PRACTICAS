@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-2\\practica-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D681D366-4F89-4D96-86D6-8ED2C77A5C41}|practica-2\\practica-2.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-2\\practica-2\\practica-2\\controllers\\registrarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D681D366-4F89-4D96-86D6-8ED2C77A5C41}|practica-2\\practica-2.csproj|solutionrelative:practica-2\\controllers\\registrarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D681D366-4F89-4D96-86D6-8ED2C77A5C41}|practica-2\\practica-2.csproj|C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-2\\practica-2\\practica-2\\views\\registrar\\actiontrgistrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D681D366-4F89-4D96-86D6-8ED2C77A5C41}|practica-2\\practica-2.csproj|solutionrelative:practica-2\\views\\registrar\\actiontrgistrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D681D366-4F89-4D96-86D6-8ED2C77A5C41}|practica-2\\practica-2.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-2\\practica-2\\practica-2\\views\\registrar\\actiontrgistrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D681D366-4F89-4D96-86D6-8ED2C77A5C41}|practica-2\\practica-2.csproj|solutionrelative:practica-2\\views\\registrar\\actiontrgistrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D681D366-4F89-4D96-86D6-8ED2C77A5C41}|practica-2\\practica-2.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-2\\practica-2\\practica-2\\controllers\\registrarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D681D366-4F89-4D96-86D6-8ED2C77A5C41}|practica-2\\practica-2.csproj|solutionrelative:practica-2\\controllers\\registrarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D681D366-4F89-4D96-86D6-8ED2C77A5C41}|practica-2\\practica-2.csproj|C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-2\\practica-2\\practica-2\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ActiontRgistrar.cshtml",
               "DocumentMoniker": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-2\\practica-2\\practica-2\\Views\\Registrar\\ActiontRgistrar.cshtml",
               "RelativeDocumentMoniker": "practica-2\\Views\\Registrar\\ActiontRgistrar.cshtml",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RegistrarController.cs",
               "DocumentMoniker": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-2\\practica-2\\practica-2\\Controllers\\RegistrarController.cs",
               "RelativeDocumentMoniker": "practica-2\\Controllers\\RegistrarController.cs",
               "ToolTip": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-2\\practica-2\\practica-2\\Controllers\\RegistrarController.cs",
               "RelativeToolTip": "practica-2\\Controllers\\RegistrarController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAABAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T23:07:16.45Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "practica-2\\Models\\Registro.cs",
               "ToolTip": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-2\\practica-2\\practica-2\\Models\\Registro.cs",
               "RelativeToolTip": "practica-2\\Models\\Registro.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA4wCcAAAAgAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T22:05:40.134Z",
               "EditorCaption": ""

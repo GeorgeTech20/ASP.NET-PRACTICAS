@@ -37,7 +37,7 @@ namespace practica_2.Models
 
         public double IGV() { return Monto() * 0.18; }
 
-        public double MontoTotal() { return Monto() * IGV(); }
+        public double MontoTotal() { return Monto() + IGV(); }
 
 
 

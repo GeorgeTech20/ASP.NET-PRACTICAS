@@ -1,0 +1,79 @@
+﻿@model practica_3.Models.Haberes
+
+@{
+    ViewBag.Title = "Boleta";
+}
+
+<h2>Boleta</h2>
+
+@using (Html.BeginForm()) 
+{ 
+<div class="form-horizontal">
+    <div class="form-group">
+        @Html.Label("dni", htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.TextBoxFor(model => model.dni, htmlAttributes: new { @class = "form-control col-md-10" })
+    </div>
+
+    <div class="form-group">
+        @Html.Label("nombre", htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.TextBoxFor(model => model.nombre, htmlAttributes: new { @class = "form-control col-md-10" })
+    </div>
+
+
+    <div class="form-group">
+        @Html.Label("categoria", htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.TextBoxFor(model => model.categoria, htmlAttributes: new { @class = "form-control col-md-10" })
+    </div>
+
+    <div class="form-group">
+        @Html.Label("basico", htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.TextBoxFor(model => model.basico, htmlAttributes: new { @class = "form-control col-md-10" })
+    </div>
+
+
+
+
+
+    <div class="form-group">
+        @Html.Label("seguro", htmlAttributes: new { @class = "control-label col-md-2" })
+        AFP
+        @Html.RadioButtonFor(model => model.aportacion, "AFP")
+
+        ONP
+        @Html.RadioButtonFor(model => model.aportacion, "ONP")
+    </div>
+
+    <div class="form-group">
+        @Html.Label("bonificacion", htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.TextBox("bonificacion", @ViewBag.bonificacion as string, htmlAttributes: new { @class = "form-control col-md-10" })
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Remuneración", htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.TextBox("remuneración", @ViewBag.remuneración as string, htmlAttributes: new { @class = "form-control col-md-10" })
+    </div>
+
+    <div class="form-group">
+        @Html.Label("aportacion", htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.TextBox("aportacion", @ViewBag.aportacion as string, htmlAttributes: new { @class = "form-control col-md-10" })
+    </div>
+
+
+    <div class="form-group">
+        @Html.Label("neto", htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.TextBox("neto", @ViewBag.neto as string, htmlAttributes: new { @class = "form-control col-md-10" })
+    </div>
+
+    <div class="form-group">
+        @Html.ActionLink("nueva", "Boleta", null, new {@class="btn btn-default" })
+        <input  type="submit" value="Procesar" class="btn btn-default"/>
+    </div>
+
+
+
+
+
+
+
+</div>
+}
