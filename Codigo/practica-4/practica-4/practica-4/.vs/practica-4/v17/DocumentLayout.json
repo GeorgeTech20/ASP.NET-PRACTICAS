@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-4\\practica-4\\practica-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C22F2-9ABA-4F4C-935B-9EA7E38BB029}|practica-4\\practica-4.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-4\\practica-4\\practica-4\\practica-4\\views\\solucion\\guiatransporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C22F2-9ABA-4F4C-935B-9EA7E38BB029}|practica-4\\practica-4.csproj|solutionrelative:practica-4\\views\\solucion\\guiatransporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C22F2-9ABA-4F4C-935B-9EA7E38BB029}|practica-4\\practica-4.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-4\\practica-4\\practica-4\\practica-4\\models\\ivovic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2C22F2-9ABA-4F4C-935B-9EA7E38BB029}|practica-4\\practica-4.csproj|solutionrelative:practica-4\\models\\ivovic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C22F2-9ABA-4F4C-935B-9EA7E38BB029}|practica-4\\practica-4.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-4\\practica-4\\practica-4\\practica-4\\controllers\\solucioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2C22F2-9ABA-4F4C-935B-9EA7E38BB029}|practica-4\\practica-4.csproj|solutionrelative:practica-4\\controllers\\solucioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C22F2-9ABA-4F4C-935B-9EA7E38BB029}|practica-4\\practica-4.csproj|c:\\users\\georgetech\\desktop\\asp.net-practicas\\codigo\\practica-4\\practica-4\\practica-4\\practica-4\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2C22F2-9ABA-4F4C-935B-9EA7E38BB029}|practica-4\\practica-4.csproj|solutionrelative:practica-4\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuiaTransporte.cshtml",
+              "DocumentMoniker": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-4\\practica-4\\practica-4\\practica-4\\Views\\Solucion\\GuiaTransporte.cshtml",
+              "RelativeDocumentMoniker": "practica-4\\Views\\Solucion\\GuiaTransporte.cshtml",
+              "ToolTip": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-4\\practica-4\\practica-4\\practica-4\\Views\\Solucion\\GuiaTransporte.cshtml",
+              "RelativeToolTip": "practica-4\\Views\\Solucion\\GuiaTransporte.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T01:33:25.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SolucionController.cs",
+              "DocumentMoniker": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-4\\practica-4\\practica-4\\practica-4\\Controllers\\SolucionController.cs",
+              "RelativeDocumentMoniker": "practica-4\\Controllers\\SolucionController.cs",
+              "ToolTip": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-4\\practica-4\\practica-4\\practica-4\\Controllers\\SolucionController.cs",
+              "RelativeToolTip": "practica-4\\Controllers\\SolucionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:25:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVOVIC.cs",
+              "DocumentMoniker": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-4\\practica-4\\practica-4\\practica-4\\Models\\IVOVIC.cs",
+              "RelativeDocumentMoniker": "practica-4\\Models\\IVOVIC.cs",
+              "ToolTip": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-4\\practica-4\\practica-4\\practica-4\\Models\\IVOVIC.cs",
+              "RelativeToolTip": "practica-4\\Models\\IVOVIC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:24:44.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-4\\practica-4\\practica-4\\practica-4\\Models\\Base.cs",
+              "RelativeDocumentMoniker": "practica-4\\Models\\Base.cs",
+              "ToolTip": "C:\\Users\\GeorgeTech\\Desktop\\ASP.NET-PRACTICAS\\Codigo\\practica-4\\practica-4\\practica-4\\practica-4\\Models\\Base.cs",
+              "RelativeToolTip": "practica-4\\Models\\Base.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:11:13.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
